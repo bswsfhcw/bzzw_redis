@@ -1,0 +1,1 @@
+java  -Dloader.path=.,../conf,../lib -jar ../bzzw-0.0.1-SNAPSHOT.jar
